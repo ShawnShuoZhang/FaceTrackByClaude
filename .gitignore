@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+.env
+.venv
+env/
+venv/
+ENV/
+
+# 编译文件
+build/
+dist/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 日志文件
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.bak
+*.tmp
+*~
+
+# 编译缓存
+*.o
+*.obj
+*.exe
+
+# 视频和图像文件（如果有）
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.png
+*.jpeg
